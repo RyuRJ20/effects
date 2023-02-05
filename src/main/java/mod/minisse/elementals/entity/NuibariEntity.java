@@ -1,5 +1,6 @@
-package mod.minisse.elementals;
+package mod.minisse.elementals.entity;
 
+import mod.minisse.elementals.items.Items;
 import net.minecraft.enchantment.EnchantmentHelper;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityType;

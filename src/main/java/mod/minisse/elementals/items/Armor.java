@@ -1,4 +1,4 @@
-package mod.minisse.elementals;
+package mod.minisse.elementals.items;
 
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.item.IArmorMaterial;

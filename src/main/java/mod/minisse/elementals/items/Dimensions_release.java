@@ -1,4 +1,4 @@
-package mod.minisse.elementals;
+package mod.minisse.elementals.items;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.container.ClickType;

@@ -1,4 +1,4 @@
-package mod.minisse.elementals;
+package mod.minisse.elementals.entity;
 
 import com.google.common.collect.ImmutableList;
 import net.minecraft.block.BlockState;

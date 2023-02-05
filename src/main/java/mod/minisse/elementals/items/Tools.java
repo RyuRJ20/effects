@@ -1,5 +1,6 @@
-package mod.minisse.elementals;
+package mod.minisse.elementals.items;
 
+import mod.minisse.elementals.items.Items;
 import net.minecraft.item.IItemTier;
 import net.minecraft.item.crafting.Ingredient;
 

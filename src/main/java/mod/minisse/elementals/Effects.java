@@ -1,8 +1,8 @@
 package mod.minisse.elementals;
 
+import mod.minisse.elementals.items.Items;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
-import net.minecraft.item.Item;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -26,8 +26,6 @@ public class Effects {
 
 public static final String MOD_ID ="effects";
     private static final Logger LOGGER = LogManager.getLogger();
-
-
 
     public Effects() {
 

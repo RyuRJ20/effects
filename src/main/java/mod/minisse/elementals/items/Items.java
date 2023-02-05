@@ -1,5 +1,6 @@
-package mod.minisse.elementals;
+package mod.minisse.elementals.items;
 
+import mod.minisse.elementals.*;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.item.*;
 import net.minecraft.potion.EffectInstance;

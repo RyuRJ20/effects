@@ -1,9 +1,8 @@
-package mod.minisse.elementals;
+package mod.minisse.elementals.items;
 
+import mod.minisse.elementals.entity.KunaiEntity;
 import net.minecraft.entity.player.PlayerEntity;
-import net.minecraft.entity.projectile.SnowballEntity;
 import net.minecraft.item.IItemTier;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.SwordItem;
 import net.minecraft.stats.Stats;
