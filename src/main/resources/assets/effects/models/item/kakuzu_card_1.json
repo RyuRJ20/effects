@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "effects:items/kakuzu_card_1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#DW",
+        "EB "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cooked_porkchop"
+        },
+        "D": {
+            "item": "minecraft:dried_kelp"
+        },
+        "W": {
+            "item": "minecraft:wheat"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "B": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "effects:ramen",
+        "count": 1
+    }
+}
